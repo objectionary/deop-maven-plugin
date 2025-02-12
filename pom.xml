@@ -137,7 +137,7 @@ SOFTWARE.
     <dependency>
       <groupId>org.eolang</groupId>
       <artifactId>jeo-maven-plugin</artifactId>
-      <version>0.5.7</version>
+      <version>0.7.5</version>
     </dependency>
     <dependency>
       <groupId>com.jcabi</groupId>
