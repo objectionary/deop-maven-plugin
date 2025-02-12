@@ -47,7 +47,7 @@ SOFTWARE.
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
-    <jeo.version>0.5.7</jeo.version>
+    <jeo.version>0.7.5</jeo.version>
     <ineo.version>0.3.2</ineo.version>
     <opeo.version>@project.version@</opeo.version>
   </properties>
